@@ -160,7 +160,7 @@ export const products = [
         <p>
           The design incorporates interactive elements, smooth animations, and a modern
           layout, making it a perfect platform to showcase high-impact presentations.
-          The "Featured Projects" section highlights some of the best works, ensuring
+          The &quot;Featured Projects&quot; section highlights some of the best works, ensuring
           visitors can explore the agency’s expertise effectively.
         </p>
         <p>
