@@ -2,7 +2,6 @@
 import Image from 'next/image';
 import { FaMugHot, FaCode, FaUser } from 'react-icons/fa';
 import { MdSchool, MdWork, MdVerified } from 'react-icons/md';
-import Profile from 'public/images/Profile/profilephoto.jpg';
 
 export default function Resume() {
   return (
@@ -11,13 +10,7 @@ export default function Resume() {
 
         {/* Profile */}
         <div className="bg-[#1c1e29] p-4 rounded-xl flex items-center space-x-4 shadow-md">
-          <Image
-            src={Profile}
-            alt="Aditya Kumar"
-            width={60}
-            height={60}
-            className="rounded-full object-cover"
-          />
+          
           <div>
             <h1 className="text-lg font-bold text-white">Aditya Kumar</h1>
             <p className="text-sm">New Delhi, 110012</p>
